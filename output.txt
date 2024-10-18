@@ -1,0 +1,6 @@
+
+================ Xuat File thong ke so luong nhan vien ================
+Doanh so co ban duoi 100 la: 3
+Doanh so co ban 100-200 la: 0
+Doanh so co ban tren 200 la: 0
+================ Ket Thuc =================
